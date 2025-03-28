@@ -87,3 +87,4 @@ public class TrianguloController {
 // você simplesmente ignorou, em tom de sarcasmo, respondeu: "É mesmo? que merda!". Portanto, se você identificar algo
 // diferente do que foi ensinado em sala, peço que leve em consideração que
 // as minhas dúvidas em sala de aula não foram sanadas por você. 
+// **Não tenho o restante do projeto de geometria, quando mudei de turma, essa já estava a frente no conteúdo. 
